@@ -2,7 +2,7 @@
 
 Futur étudiant en Master 1 Programme Grande Ecole à Grenoble Ecole de Management (Campus de Paris) à partir de Septembre 2026, je combine un solide bagage en Économie et Statistiques (obtenu à l'Université Paris 1 Panthéon-Sorbonne) avec un fort intérêt pour l'analyse de données et le monde de la Data.
 
-Objectif : Décrocher une alternance de 12 à 24 mois en tant que Data Analyst en Île-de-France (rythme 2 semaines en entreprise / 1 semaine en école).
+Objectif : Décrocher une alternance de 12 à 24 mois en tant que Data Analyst ESG en Île-de-France (rythme 2 semaines en entreprise / 1 semaine en école).
 
 ---
 
